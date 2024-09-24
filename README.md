@@ -21,38 +21,38 @@
   <ol>
     <div>
     <hr>
-    <img src="Readme_Image's/Instruct_One.jpg" alt="Folder 3" style="max-width:100%;">
+    <img src="Readme_Image's/1.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
     <li><b>To download the JSON parser files, click the <>code button on the right-hand side of the repository</b></li>
     </div>
     <div>
     <hr>
-    <img src="Readme_Image's/Instruct_Two.jpg" alt="Folder 3" style="max-width:100%;">
+    <img src="Readme_Image's/2.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
     <li><b>On the drop-down menu, select the bottom option to download the repository as a Zip</b></li>
     </div>
     <div>
     <hr>
-    <img src="Readme_Image's/Instruct_Four.jpg" alt="Folder 3" style="max-width:100%;">
+    <img src="Readme_Image's/3.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
     <li><b>Extract the JSON_Parser folder to a valid location on your pc (Documents or Desktop)</b></li>
     </div>
     <div>
     <hr>
-    <img src="Readme_Image's/Instruct_Five.jpg" alt="Folder 3" style="max-width:100%;">
+    <img src="Readme_Image's/4.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
     <li><b>Open cmd, and cd to your project folder that you want to add the downloaded parsing module</b></li>
     </div>
     <div>
     <hr>
-    <img src="Readme_Image's/Instruct_Five.jpg" alt="Folder 3" style="max-width:100%;">
+    <img src="Readme_Image's/5.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
     <li><b>Once your in the correct repository, install the JSON parser as above, specifying the directory folder of the JSON files (specifically the Node.js-JSON-Parser
 /JSONParser folder which holds the Index.js, Parser.js, and package.json)</b></li>
     </div>
     <div>
     <hr>
-    <img src="Readme_Image's/Instruct_Five.jpg" alt="Folder 3" style="max-width:100%;">
+    <img src="Readme_Image's/6.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
     <li><b>Inside of the javascript file you wish parse data, import the parser with:</b></li>
       <pre><code>const { Parse } = require('jsonparser');</code></pre>

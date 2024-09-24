@@ -60,7 +60,7 @@
     </div>
     <div>
     <hr>
-    <img src="README_IMGS/7" alt="Folder 3" style="max-width:100%;">
+    <img src="README_IMGS/7.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
     <li><b>If you want to quickly test if it works. Grab the Test folder inside of the JSON Github repository, and drag it into the same folder as your working file. Then run this code:</b></li>
     <pre><code> var path = "./data/step4/valid.json";

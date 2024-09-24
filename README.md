@@ -1,6 +1,6 @@
 # ✍ Node.js-JSON-Parser ✍
 <div>
-  <p>A custom Json file Parser that can be used in Node.js projects, utilsing a three step lexing, tokenisation and parsing system to parse all relevant JSON files. Includes error checking. Installation instrutions and features below <b>NOTE: This parser requires Node.js to be installed on your device</b></p>
+  <p>A custom JSON file Parser that can be used in Node.js projects, utilising a three-step lexing, tokenisation and parsing system to parse all relevant JSON files. Includes error checking. Installation instructions and features below <b>NOTE: This parser requires Node.js to be installed on your device</b></p>
 </div>
 <div>
    <h2>Table of Contents</h2>
@@ -47,14 +47,14 @@
     <hr>
     <img src="README_IMGS/5.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
-    <li><b>Once your in the correct repository, install the JSON parser as above, specifying the directory folder of the JSON files (specifically the Node.js-JSON-Parser
+    <li><b>Once you're in the correct repository, install the JSON parser as above, specifying the directory folder of the JSON files (specifically the Node.js-JSON-Parser
 /JSONParser folder which holds the Index.js, Parser.js, and package.json)</b></li>
     </div>
     <div>
     <hr>
     <img src="README_IMGS/6.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
-    <li><b>Inside of the javascript file you wish parse data, import the parser with:</b></li>
+    <li><b>Inside of the javascript file you wish to parse data, import the parser with:</b></li>
       <pre><code>const { Parse } = require('jsonparser');</code></pre>
     </div>
     </div>
@@ -62,7 +62,7 @@
     <hr>
     <img src="README_IMGS/7.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
-    <li><b>If you want to quickly test if it works. Grab the Test folder inside of the JSON Github repository, and drag it into the same folder as your working file. Then run this code:</b></li>
+    <li><b>If you want to test if it works quickly, you can grab the Test folder inside of the JSON Github repository, and then drag it into the same folder as your working file. Then run this code:</b></li>
     <pre><code> var path = "./test_data/valid.json";
                 const {Parse} = require('jsonparser');
                 const fs = require('fs');

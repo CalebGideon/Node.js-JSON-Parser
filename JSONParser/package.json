@@ -1,0 +1,11 @@
+{
+  "name": "jsonparser",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caleb Gideon",
+  "license": "ISC"
+}

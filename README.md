@@ -54,14 +54,16 @@
     <hr>
     <img src="Readme_Image's/Instruct_Five.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
-    <li><b>Inside of the javascript file you wish parse data, import the parser with <code>const { Parse } = require('jsonparser');</code> </b></li>
+    <li><b>Inside of the javascript file you wish parse data, import the parser with:</b></li>
+      <pre><code>const { Parse } = require('jsonparser');</code></pre>
     </div>
     </div>
     <div>
     <hr>
     <img src="Readme_Image's/Instruct_Five.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
-    <li><b>If you want to quickly test if it works. Grab the Test folder inside of the JSON Github repository, and drag it into the same folder as your working file. Then run this code <code>var path = "./data/step4/valid.json";
+    <li><b>If you want to quickly test if it works. Grab the Test folder inside of the JSON Github repository, and drag it into the same folder as your working file. Then run this code:</b></li>
+      <pre><code>var path = "./data/step4/valid.json";
 
 const {Parse} = require('jsonparser');
 const fs = require('fs');
@@ -75,7 +77,7 @@ fs.readFile(path, 'utf8', (err, data) => {
     console.log(parsed);
 });
 
-</code></b></li>
+</code></pre>
     </div>
   </ol>
 </div>

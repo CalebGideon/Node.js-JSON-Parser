@@ -1,6 +1,6 @@
 # ✍ Node.js-JSON-Parser ✍
 <div>
-  <p>A custom Json file Parser that can be used in Node.js projects, utilsing a three step lexing, tokenisation and parsing system to parse all relevant JSON files. Includes error checking. Installation instrutions and features below </p>
+  <p>A custom Json file Parser that can be used in Node.js projects, utilsing a three step lexing, tokenisation and parsing system to parse all relevant JSON files. Includes error checking. Installation instrutions and features below <b>NOTE: This parser requires Node.js to be installed on your device</b></p>
 </div>
 <div>
    <h2>Table of Contents</h2>

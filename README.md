@@ -63,7 +63,7 @@
     <img src="README_IMGS/7.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
     <li><b>If you want to quickly test if it works. Grab the Test folder inside of the JSON Github repository, and drag it into the same folder as your working file. Then run this code:</b></li>
-    <pre><code> var path = "./data/step4/valid.json";
+    <pre><code> var path = "./test_data/valid.json";
                 const {Parse} = require('jsonparser');
                 const fs = require('fs');
                 fs.readFile(path, 'utf8', (err, data) => {
